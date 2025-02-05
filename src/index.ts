@@ -9,7 +9,6 @@ const wallace = {
 
 const maria = {
   nome: "Maria Vitória",
-  idade: 20,
   redesSociais: [
     { rede: "instagram", perfil: "apenas_franca" },
   ]
